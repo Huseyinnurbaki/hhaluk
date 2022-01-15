@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hhaluk.me/sitemap.xml
+Host: https://hhaluk.me
